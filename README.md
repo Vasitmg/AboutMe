@@ -9,7 +9,15 @@ A README file that contains information about me and also the technologies that 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" />
 </p>
+
+- Solid understanding of **programming fundamentals** across all languages  
+- Used **JavaScript** with **Object-Oriented Programming (OOP)**  
+- Built **Azure Functions using Python**  
+- Learned **PowerShell basics** and wrote scripts integrated with **Azure DevOps**
+
+---
 
 ## 🌐 Web
 <p align="left">
@@ -19,12 +27,24 @@ A README file that contains information about me and also the technologies that 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" />
 </p>
 
+- Used these technologies to **build and improve web pages**
+- Focused on **structure, styling, and user experience**
+- Created responsive and cleaner UI using **modern frontend tools**
+
+---
+
 ## ☁️ Cloud & APIs
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="40" />
 </p>
 
-🧩 **Also worked with:** REST APIs, Azure Databases
+- Created and deployed **Azure Functions**
+- Worked with **Azure Databases**
+- Built and tested **REST APIs**
+- Used **Azure DevOps** in combination with PowerShell scripts
+
+---
 
 ## 🛠️ Tools
 <p align="left">
@@ -35,3 +55,8 @@ A README file that contains information about me and also the technologies that 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
 </p>
+
+- Used **Git & GitHub** to push, manage, and version code  
+- Learned **basic Linux terminal commands**  
+- Developed applications using **Visual Studio** and **Visual Studio Code**  
+- Tested and validated **REST API requests** using **Postman**
