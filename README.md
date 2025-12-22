@@ -36,7 +36,6 @@ A README file that contains all the technologies I’ve worked with and what I d
 ## ☁️ Cloud & APIs
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/microsoft/azure-logos/master/azure-machine-learning.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="40" />
 </p>
 
