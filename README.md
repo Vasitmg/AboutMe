@@ -35,14 +35,21 @@ A README file that contains all the technologies I’ve worked with and what I d
 
 ## ☁️ Cloud & APIs
 <p align="left">
+  <!-- Azure Platform -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
+  <!-- Azure Functions -->
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure_functions/microsoft_azure_functions-icon.svg" height="40" />
+  <!-- Azure Databases (Azure SQL) -->
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure_sql_database/microsoft_azure_sql_database-icon.svg" height="40" />
+  <!-- Azure DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="40" />
 </p>
 
-- Created and deployed **Azure Functions**
-- Worked with **Azure Databases**
-- Built and tested **REST APIs**
-- Used **Azure DevOps** in combination with PowerShell scripts
+- **Azure Functions:** Built and deployed serverless functions (including Python-based functions).
+- **Azure Databases:** Worked with Azure-hosted databases for data storage.
+- **REST APIs:** Created and tested REST API endpoints.
+- **Azure DevOps:** Used DevOps workflows and PowerShell integration.
+
 
 ---
 
