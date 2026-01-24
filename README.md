@@ -55,9 +55,13 @@ A README file that contains all the technologies I’ve worked with and what I d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
+  <img src="https://www.netlify.com/v3/img/components/logomark.png" height="40" />
 </p>
 
 - Used **Git & GitHub** to push, manage, and version code  
 - Learned **basic Linux terminal commands**  
 - Developed applications using **Visual Studio** and **Visual Studio Code**  
 - Tested and validated **REST API requests** using **Postman**
+- Deployed and hosted web applications using **Netlify**
+- Connected **GitHub** repositories to **Netlify** with automatic CI/CD deployments
+- Used **Netlify** for fast static hosting and preview builds
