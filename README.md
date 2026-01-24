@@ -1,4 +1,4 @@
- # Abou tMe
+ # About Me
 A README file that contains all the technologies I’ve worked with and what I did with them.
 
 ## 🧑‍💻 Languages
