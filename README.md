@@ -55,7 +55,6 @@ A README file that contains all the technologies I’ve worked with and what I d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
-  <img src="https://www.netlify.com/v3/img/components/logomark.png" height="40" />
 </p>
 
 - Used **Git & GitHub** to push, manage, and version code  
